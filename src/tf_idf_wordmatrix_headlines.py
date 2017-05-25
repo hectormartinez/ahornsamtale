@@ -1,5 +1,4 @@
 import argparse
-import csv
 import pandas as pd
 from collections import Counter
 from nltk.tokenize import wordpunct_tokenize
